@@ -1,6 +1,11 @@
 .navbar {
     height: 80px;
 
+    img {
+        height: 1.5rem;
+        border-radius: 10%;
+    }
+
     .wrapper {
         padding: 10px 30px;
         display: flex;

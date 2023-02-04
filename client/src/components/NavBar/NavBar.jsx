@@ -18,7 +18,7 @@ const Navbar = () => {
             <div className="wrapper">
                 <div className="left">
                     <div className="item">
-                        <img src="/img/en.png" alt="" />
+                        <img src="/img/pngegg.png" alt="/"/>
                         <KeyboardArrowDownIcon />
                     </div>
                     <div className="item">
@@ -36,7 +36,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className="center">
-                    <Link className="link" to="/">MyStore</Link>
+                    <Link className="link" to="/">sneakerHead</Link>
                 </div>
                 <div className="right">
                     <div className="item">

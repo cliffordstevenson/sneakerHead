@@ -10,6 +10,8 @@ const List = ({ subCats, maxPrice, sort, catId }) => {
         )}&[filters][price][$lte]=${maxPrice}&sort=price:${sort}`
     );
 
+    //Above is what renders the selectors using Strapi DOCS for max price, sort by price, etc.
+
     return (
         <div className="list">
             {loading
