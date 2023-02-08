@@ -26,8 +26,6 @@ const Products = () => {
         );
     };
 
-    console.log(selectedSubCats)
-
     return (
         <div className="products">
             <div className="left">
@@ -85,7 +83,7 @@ const Products = () => {
             <div className="right">
                 <img
                     className="catImg"
-                    src="https://images.pexels.com/photos/1074535/pexels-photo-1074535.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                    src="https://images.unsplash.com/photo-1480179087180-d9f0ec044897?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzl8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                     alt=""
                 />
                 <List catId={catId} maxPrice={maxPrice} sort={sort} subCats={selectedSubCats} />

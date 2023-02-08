@@ -8,7 +8,7 @@ const Categories = () => {
             <div className="col">
                 <div className="row">
                     <img
-                        src="https://images.pexels.com/photos/818992/pexels-photo-818992.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                        src="https://images.unsplash.com/photo-1517438984742-1262db08379e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                         alt=""
                     />
                     <button>
@@ -19,7 +19,7 @@ const Categories = () => {
                 </div>
                 <div className="row">
                     <img
-                        src="https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                        src="https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zml0bmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60"
                         alt=""
                     />
                     <button>
@@ -33,7 +33,7 @@ const Categories = () => {
                 <div className="row">
                     {" "}
                     <img
-                        src="https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                        src="https://plus.unsplash.com/premium_photo-1665673312770-90df9f77ddfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                         alt=""
                     />
                     <button>
@@ -48,7 +48,7 @@ const Categories = () => {
                     <div className="col">
                         <div className="row">
                             <img
-                                src="https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                                src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzZ8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                                 alt=""
                             />
                             <button>
@@ -62,7 +62,7 @@ const Categories = () => {
                         <div className="row">
                             {" "}
                             <img
-                                src="https://images.pexels.com/photos/2703202/pexels-photo-2703202.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                                src="https://images.unsplash.com/photo-1574680178050-55c6a6a96e0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                                 alt=""
                             />
                             <button>
@@ -75,7 +75,7 @@ const Categories = () => {
                 </div>
                 <div className="row">
                     <img
-                        src="https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                        src="https://images.unsplash.com/photo-1593431763017-c689a61b729a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fGZpdG5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60"
                         alt=""
                     />
                     <button>
