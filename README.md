@@ -1,4 +1,4 @@
-# sneakerHead E-commerce Application
+# SneakerHead E-commerce Application
 [![License](https://img.shields.io/badge/license-Other-orange)](https://opensource.org/licenses)
 
 E-commerce application with React for the front-end, mySQL for the backend managed by headless CMS, stripe payments and fictional inventory
