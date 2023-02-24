@@ -38,9 +38,7 @@ For local hosting:
 
 Single contribution project 
 
-<a name="gifs"></a>
-### Gifs
-
+<a name="appDemo"></a>
 ##### App Demo
 
 <a href="https://www.youtube.com/watch?v=R5s3weDsFPE" target="_blank">
