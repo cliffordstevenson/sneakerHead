@@ -56,3 +56,7 @@ Feel free to contact me via GitHub or email with any feedback
 
 [GitHub u/cliffordstevenson](https://github.com/cliffordstevenson)
 clifford.andrew.stevenson@gmail.com
+
+### License 
+
+[MIT License](LICENSE)
