@@ -27,11 +27,11 @@ SO THAT I can make transations, ship products and allow customers to browse the 
 
 For local hosting:
 
-1. `git clone` this repository
+1. `git clone` this repository (for instructions see GitHub docs)
 2. type `cd api` into your terminal to change directory
-3. npm run start to start the back-end server which populates the inventory
-4. `cd client` in a seperate terminal
-5. npm run start
+3. type `npm run start` to start the back-end server which populates the inventory
+4. type `cd client` in a seperate terminal
+5. type `npm run start` in the new terminal
 6. navigate to `http://localhost:3000` in your preferred browser to run the app
 
 <a name="contribution"></a>
